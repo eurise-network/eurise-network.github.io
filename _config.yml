@@ -1,0 +1,59 @@
+
+# Setup
+title:               "EURISE Network"
+email:               example@gmail.com
+#tagline:             European Research Infrastructures meet research software engineers
+tagline:             "European Research Infrastructure Software Engineers' Network"
+url:                 "" # insert your site's URL
+baseurl:             ""
+
+# About/contact
+author: # you can edit these to be your personal details
+  name:              EURISE Network
+  url:               https://github.com/eurise-network
+  email:
+
+# Google services
+google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics:
+google_tag_manager:
+# Bing services
+bing_verification:
+
+# Social
+github_username: eurise-network
+#twitter_username:
+#instagram_username:
+#facebook:
+#linkedin_username:
+#dribbble_username:
+
+# Custom vars
+version:             1.0.1
+github:
+  repo:              https://github.com/eurise-network
+
+# Gems - Dependencies for this theme
+gems:
+  # None currently
+
+# Build settings
+markdown:     kramdown
+permalink:    pretty
+
+widgets:
+  - title: About
+    url: about
+    archor: true
+  - title: Goals
+    url: goals
+    archor: true
+  - title: Team
+    url: team
+    archor: true
+  - title: Infrastructures
+    url: infrastructures
+    archor: true
+
