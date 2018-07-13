@@ -47,12 +47,12 @@ widgets:
   - title: About
     url: about
     archor: true
-  - title: Goals
-    url: goals
-    archor: true
-  - title: Team
-    url: team
-    archor: true
+    #  - title: Goals
+    #    url: goals
+    #    archor: true
+    #  - title: Team
+    #    url: team
+    #    archor: true
   - title: Infrastructures
     url: infrastructures
     archor: true
