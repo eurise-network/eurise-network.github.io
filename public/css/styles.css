@@ -267,6 +267,15 @@ pre code {
   color: #074f66;
   font-size: 18px;
 }
+/* ======= News Section ======= */
+.news {
+  padding: 80px 0;
+}
+.news .title {
+  color: #074f66;
+  margin-top: 0;
+  margin-bottom: 60px;
+}
 /* ======= Features Section ======= */
 .features {
   padding: 80px 0;
