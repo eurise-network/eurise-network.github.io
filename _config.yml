@@ -51,6 +51,9 @@ widgets:
   - title: Team
     url: team
     archor: true
+  - title: News
+    url: news
+    archor: true
   - title: Infrastructures
     url: infrastructures
     archor: true
