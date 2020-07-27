@@ -34,27 +34,22 @@ version:             1.0.1
 github:
   repo:              https://github.com/eurise-network
 
-plugins:
+#plugins:
   # None currently
 
 # Build settings
 markdown:     kramdown
 permalink:    pretty
 
-widgets:
-  - title: About
-    url: about
-    archor: true
-  - title: Goals
-    url: goals
-    archor: true
-  - title: Team
-    url: team
-    archor: true
-  - title: News
-    url: news
-    archor: true
-  - title: Infrastructures
-    url: infrastructures
-    archor: true
+#specialpages:
+#  - title: News
+#    url: news.html
+
+workshops:
+  - title: "Berlin 2017"
+    url: workshop-berlin-2017.html
+  - title: "Utrecht 2019"
+    url: workshop-utrecht-2019.html
+  - title: "Utrecht 2020 (Cancelled)"
+    url: workshop-utrecht-2020.html
 
