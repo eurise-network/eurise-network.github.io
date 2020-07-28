@@ -21,10 +21,10 @@
                         {% for thepage in site.specialpages %}
                             <li class="nav-item"><a href="{{ thepage.url }}">{{ thepage.title }}</a></li>
                         {% endfor %}
-                        <li class="nav-item dropdown"> <a class="dropbtn">Workshops</a>
+                        <li class="nav-item dropdown"> <a href="{{ site.baseurl }}{% link events.md %}" class="dropbtn">Events</a>
                           <div class="dropdown-content">
-                          {% for workshop in site.workshops %}
-                              <a href="{{ workshop.url }}">{{ workshop.title }}</a>
+                          {% for event in site.workshops %}
+                              <a href="{{ event.url }}">{{ event.title }}</a>
                           {% endfor %}
                           </div>
                         </li>

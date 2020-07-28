@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Workshop Utrecht 2019
-long_title: "Software Sustainability within Research Infrastructures"
+long_title: "Software Quality through Automation and Testing"
 permalink: workshop-utrecht-2020.html
 ---
 
