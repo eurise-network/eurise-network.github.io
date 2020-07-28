@@ -16,11 +16,9 @@ informing the basis of all development efforts and processes.
 During the workshop, we will be introduced to these concepts and the problems they address.
 On the second day, we will spread into group sessions to discuss possible connections between them as well as the missing links.
 
-
 The workshop is inspired by ongoing discussions within DARIAH, Humanities at Scale, DESIR and beyond.
 It brings together leading experts from the digital research infrastructures [CESSDA](https://www.cessda.eu/),
 [CLARIN](https://www.clarin.eu/) and [DARIAH](http://www.dariah.eu/) in an effort to engage with the wider community.
-
 
 ### 9 October
 
@@ -33,9 +31,9 @@ It brings together leading experts from the digital research infrastructures [CE
 * 15:45-16:15 DARIAH-DE Service Life Cycle -- **Danah Tonne** (KIT)
 * 16:15-16:45 The infrastructure view
 
-    * DARIAH-EU -- **Tibor Kalman** (GWDG)
-    * CESSDA -- **Hossein Abroshan** (Cessda MO)
-    * CLARIN -- **Matej Durco** (OEAW)
+  * DARIAH-EU -- **Tibor Kalman** (GWDG)
+  * CESSDA -- **Hossein Abroshan** (Cessda MO)
+  * CLARIN -- **Matej Durco** (OEAW)
 
 * 16:45-17:00 Coffee break
 * 17:00-17:30 Plenary session

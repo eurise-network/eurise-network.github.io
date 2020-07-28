@@ -1,15 +1,22 @@
 # EURISE Network landing page
 
+This is the website for the EURISE Network.
+
 ## devAid **Jekyll** Theme
 
-The [devAid](https://github.com/xriley/devAid-Theme) theme from [Xiaoying Riley](http://xiaoyingriley.com/), was adopted to Jekyll by [Sergey Karatkevich](https://github.com/kevit).
+The [devAid](https://github.com/xriley/devAid-Theme) theme from [Xiaoying Riley](http://xiaoyingriley.com/),
+was adopted to [Jekyll](https://jekyllrb.com/) by [Sergey Karatkevich](https://github.com/kevit)
+and extended by the EURISE team to cover more than the single page use case.
 
-### Installing
+## Local development
 
-Install [Jekyll](https://jekyllrb.com/) if you haven't already.
+To get started locally, make sure to [have Ruby installed](https://jekyllrb.com/docs/installation/), then run
 
-1. Either clone this repo onto your computer, or download a package (tar or .zip) and un-pack it.
-2. From `/devaid-jekyll-theme`, or the site's root directory run `jekyll serve`.
+```shell
+gem install jekyll bundler
+bundle install
+bundle exec jekyll serve
+```
 
-A Jekyll server will be run locally so that you can see your site.
+Use the development server for local testing.
 

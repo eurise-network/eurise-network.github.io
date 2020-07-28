@@ -1,0 +1,2 @@
+style File.join(File.dirname(__FILE__), '.mdl.style')
+ignore_front_matter true

@@ -29,12 +29,7 @@ as a solid foundation for the operation of research infrastructures.
 In this regard, the solutions and approaches presented already fulfil most immediate needs.
 Once they are accepted and in place, the focus must shift to the human aspect of sustainability.
 
-
-
-
-
 ### 12 March
-
 
 * 15:00-15:30   Arrival: Tea & Coffee
 * 15:30-16:00   Welcome: Introduction -- **Carsten Thiel** (CESSDA)
@@ -42,7 +37,6 @@ Once they are accepted and in place, the focus must shift to the human aspect of
 * 16:30-17:00   CLARIN's first steps on the long path to software sustainability -- **Dieter van Uytvanck** (CLARIN)
 * 17:00-17:30   Business Models for Digital Research Infrastructures using the Example of DARIAH -- **Frank Fischer** (DARIAH)
 * 18:00-21:00   Dinner: De Utrechter Stadsbrasserie
-
 
 ### 13 March
 
