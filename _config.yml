@@ -46,10 +46,11 @@ permalink:    pretty
 #    url: news.html
 
 workshops:
-  - title: "Berlin 2017"
-    url: workshop-berlin-2017.html
-  - title: "Utrecht 2019"
-    url: workshop-utrecht-2019.html
+  - title: "Online series 2020"
+    url: online-series-2020.html
   - title: "Utrecht 2020 (Cancelled)"
     url: workshop-utrecht-2020.html
-
+  - title: "Utrecht 2019"
+    url: workshop-utrecht-2019.html
+  - title: "Berlin 2017"
+    url: workshop-berlin-2017.html
