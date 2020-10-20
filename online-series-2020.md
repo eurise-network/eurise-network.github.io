@@ -9,6 +9,9 @@ Wednesdays at 14 WET / 15 CET / 16 EET!
 
 The meetings take place on the [EURISE Discord](https://discord.gg/pNRZyF7) – no registration required!
 
+The one hour meeting will be kicked-off by short lightning talks from infrastructure members.
+This is followed by a chance to discuss the points brought up in the introductions and to possibly go beyond.
+
 Next meeting: **October 28** [<i class="fa fa-calendar"></i>](online-event-1.ics)
 
 ## Testing and automation, CI workflows
