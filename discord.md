@@ -6,7 +6,7 @@ permalink: discord.html
 ---
 
 To join the EURISE Network Discord Server, follow this temporary invite:
-[https://discord.gg/pNRZyF7](https://discord.gg/pNRZyF7)
+[https://discord.gg/pNRZyF7](https://discord.gg/Zh77zeU)
 
 ## Server Rules
 
