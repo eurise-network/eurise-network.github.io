@@ -7,7 +7,7 @@ permalink: online-series-2020.html
 
 Wednesdays at 14 WET / 15 CET / 16 EET!
 
-The meetings take place on the [EURISE Discord](https://discord.gg/Zh77zeU) – no registration required!
+The meetings take place on the [EURISE Discord](https://discord.gg/Zh77zeU) – simply join us there.
 
 The one hour meeting will be kicked-off by short lightning talks from infrastructure members.
 This is followed by a chance to discuss the points brought up in the introductions and to possibly go beyond.
