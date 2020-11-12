@@ -12,7 +12,7 @@ The meetings take place on the [EURISE Discord](https://discord.gg/Zh77zeU) â€“Â
 The one hour meeting will be kicked-off by short lightning talks from infrastructure members.
 This is followed by a chance to discuss the points brought up in the introductions and to possibly go beyond.
 
-Next meeting: **November 11** [<i class="fa fa-calendar"></i>](online-event-2.ics)
+Next meeting: **November 25** [<i class="fa fa-calendar"></i>](online-event-3.ics)
 
 ## Testing and automation, CI workflows
 ### October 28
