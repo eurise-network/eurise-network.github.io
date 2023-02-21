@@ -5,8 +5,7 @@ long_title: EURISE Network Discord
 permalink: discord.html
 ---
 
-To join the EURISE Network Discord Server, follow this temporary invite:
-[https://discord.gg/pNRZyF7](https://discord.gg/Zh77zeU)
+The EURISE Network Discord Server was discontinued.
 
 ## Server Rules
 
